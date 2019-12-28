@@ -1,4 +1,4 @@
-# Marie-2.0-English
+# Bharathy Bot
 https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
