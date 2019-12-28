@@ -1,4 +1,4 @@
-# Bharathy Bot
+# @Bharathy_Bot
 https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
