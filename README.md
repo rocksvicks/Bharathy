@@ -1,5 +1,5 @@
 # Marie-2.0-English
-https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English
+https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
