@@ -18,14 +18,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+வணக்கம் {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+My future updates will be put into This Channel - @RocksVicks 
+Our YouTube channel link : [Rocks Vicks YT](https://www.youtube.com/channel/UCAzDd3ud2WcU7VD4OFGMWhA)
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+My கவிதை தளம் @EnnaSollaPogirai.
+
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy),
 you can create clone same like me..
+Find me a [Bharathy Bot](https://t.me/Bharathy_bot)
 
 For more commands click /help...
 
@@ -50,10 +54,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/RocksVicksYT) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [PayPal](paypal.me/rocksvicks) or [Google Pay](https://t.me/share/url?url={My Google pay Number +919750272}) ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
