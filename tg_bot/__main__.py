@@ -22,7 +22,7 @@ PM_START_TEXT = """
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @RocksVicks 
+My future updates will be put into This Channel - @RocksVicksYT
 Our YouTube channel link : [Rocks Vicks YT](https://www.youtube.com/channel/UCAzDd3ud2WcU7VD4OFGMWhA)
 
 My கவிதை தளம் @EnnaSollaPogirai.
@@ -30,7 +30,7 @@ My கவிதை தளம் @EnnaSollaPogirai.
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy),
 you can create clone same like me..
 Find me a [Bharathy Bot](https://t.me/Bharathy_bot)
-My brother [MSRI Editz](https://t.me/MSRI_Editz_bot)
+My brother bot [MSRI Editz](https://t.me/MSRI_Editz_bot)
 
 For more commands click /help...
 
@@ -55,7 +55,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/RocksVicksYT) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/RocksVicks) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](paypal.me/rocksvicks) or [Google Pay](https://t.me/share/url?url={My Google pay Number +919750272}) ."""
