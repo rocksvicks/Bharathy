@@ -29,7 +29,7 @@ My கவிதை தளம் @EnnaSollaPogirai.
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy),
 you can create clone same like me..
-Find me a [Bharathy Bot](https://t.me/Bharathy_bot)
+Find me a [Bharathy Bot](https://t.me/Bharathybot)
 My brother bot [MSRI Editz](https://t.me/MSRI_Editz_bot)
 
 For more commands click /help...
