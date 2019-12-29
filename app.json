@@ -7,16 +7,16 @@
     "best",
     "group",
     "manager",
-    "3"
+    "tamil"
   ],
-  "repository": "hhttps://github.com/rocksvicksyt/Bharathy g",
+  "repository": "hhttps://github.com/rocksvicksyt/Bharathy",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Enter Your bot token, as a string.",
       "value": ""
     },
     "OWNER_ID": {
@@ -24,7 +24,7 @@
       "value": "955133664"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
+      "description": "Enter Your username",
       "value": "RocksVicksYT"
     },
     "WEBHOOK": {
@@ -52,7 +52,7 @@
       "value": "955133664 "
     },
     "DONATION_LINK": {
-      "description": "Optional: link where you would like to receive donations.",
+      "description": "Optional:Enter link where you would like to receive donations.",
       "value": "https://www.paypal.me/Your_id_here"
     },
     "PORT": {
@@ -72,7 +72,7 @@
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "Don't change sticker to use when banning people. Use https://t.me/Bharathy_Bot to get the file_id",
       "value": "CAADBQADkAAD4C7uOIvCKYp6xvK-FgQ"
     }
   },
