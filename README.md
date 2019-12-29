@@ -1,4 +1,4 @@
-# @Bharathy_Bot
+#Esay to deploy
 https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
