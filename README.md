@@ -1,4 +1,9 @@
 # Esay to deploy
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy )
+
+Or
+
 https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
