@@ -1,4 +1,4 @@
-#Esay to deploy
+# Esay to deploy
 https://heroku.com/deploy?template=https://github.com/rocksvicksyt/Bharathy
 
 
